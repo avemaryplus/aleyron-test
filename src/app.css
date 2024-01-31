@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: "Onest-400";
+	font-style: normal;
+	font-weight: 400;
+	src: url("./lib/assets/fonts/Onest/static/Onest-Thin.ttf");
+}
+
+@font-face {
+	font-family: "Onest-500";
+	font-style: normal;
+	font-weight: 500;
+	src: url("./lib/assets/fonts/Onest/static/Onest-Medium.ttf");
+}
+
+@font-face {
+	font-family: "Source-Sans-Pro-900";
+	font-style: normal;
+	font-weight: 900;
+	src: url("./lib/assets/fonts/sourcesanspro/SourceSansPro-Black.otf");
+}
+
+@font-face {
+	font-family: "Onest-700";
+	font-style: normal;
+	font-weight: 700;
+	src: url("./lib/assets/fonts/Onest/static/Onest-Bold.ttf");
+}
